@@ -4,6 +4,7 @@
 v1 (10-02-2025) - Criação inicial do prompt
 v1.1 (15-02-2025) - Inclusão de público-alvo e sugestões de plataforma
 v2 (20-02-2025) - Adição de estrutura de formatação do post e exemplo prático
+v2 (29-06-2025) - adição carismatico
 
 ## Objetivo
 Este template foi desenvolvido para padronizar a criação de prompts para conteúdos inspiracionais em redes sociais, garantindo consistência e clareza no desenvolvimento de publicações.
@@ -13,7 +14,7 @@ Day Cavalcanti
 
 ## Prompt
 
-Crie um post inspiracional para redes sociais utilizando storytelling. O conteúdo deve ser curto, envolvente e conter uma chamada para ação no final.
+Crie um post inspiracional e carismatico para redes sociais utilizando storytelling. O conteúdo deve ser curto, envolvente e conter uma chamada para ação no final.
 
 Estrutura do Post:
 - **Título chamativo**: Máximo de 10 palavras.
